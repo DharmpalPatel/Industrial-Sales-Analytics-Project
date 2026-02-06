@@ -1,0 +1,6 @@
+ProductID,ProductName,Category,UnitPrice
+101,Power Transformer,Transmission,50000
+102,Circuit Breaker,Switchgear,15000
+103,Distribution Board,Distribution,8000
+104,Control Panel,Control,25000
+105,Voltage Regulator,Protection,12000
